@@ -1,4 +1,4 @@
-# 🧠 Financial Misinformation Detection (Capstone Project)
+# 🧠 Financial Misinformation Detection 
 
 This project aims to detect misinformation in financial claims using various machine learning and deep learning models including Logistic Regression, RNN, and BERT.
 
