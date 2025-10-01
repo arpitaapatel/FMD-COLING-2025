@@ -1,4 +1,4 @@
-# Financial Misinformation Detection - Website
+# Financial Misinformation Detection 
 
 A modern, interactive website showcasing the Financial Misinformation Detection (FMD) capstone project. This website compares three AI models (Logistic Regression, RNN/LSTM, and BERT) for detecting misinformation in financial claims.
 
@@ -132,5 +132,6 @@ This project is part of a capstone project for Financial Misinformation Detectio
 For questions about the FMD project or website deployment, please refer to the original project documentation in the `FMD_PROJECT` folder.
 
 ---
+
 
 **Deployed on Netlify** • **Built with ❤️ for AI Research**
