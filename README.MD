@@ -127,11 +127,5 @@ This project is part of a capstone project for Financial Misinformation Detectio
 4. Test thoroughly
 5. Submit a pull request
 
-## 📞 Support
-
-For questions about the FMD project or website deployment, please refer to the original project documentation in the `FMD_PROJECT` folder.
-
----
 
 
-**Deployed on Netlify** • **Built with ❤️ for AI Research**
